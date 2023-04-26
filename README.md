@@ -6,8 +6,6 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Stock Market Analyst
 
-![alt=""](Images/stockmarket.jpg)
-
 ## Instructions
 
 Create a script that loops through all the stocks for one year and outputs the following information:
@@ -24,7 +22,7 @@ Create a script that loops through all the stocks for one year and outputs the f
 
 The result should match the following image:
 
-![moderate_solution](Images/moderate_solution.png)
+![image](https://user-images.githubusercontent.com/116036703/234636720-faa31eac-42f8-4477-bee1-bfd9788ebf48.png)
 
 ## Other Considerations
 

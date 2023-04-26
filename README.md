@@ -30,7 +30,7 @@ The result should match the following image:
 
 * Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with one click of a button.
 
-* XLSM file not included (too large for GitHub)
+* XLSM file not included (too large for GitHub).
 
 ## References
 
